@@ -1,0 +1,6 @@
+DataStructure-primitive-int float char bool
+non-primitive
+   -linear ds=array,queue,stack,linked List
+   -non-linear ds=tree, graph, hash table
+
+Array ➡️ String ➡️ Sorting ➡️ Binary Search ➡️ Linked List ➡️ Stack ➡️ Queue ➡️ Tree ➡️ Recursion ➡️ Backtracking ➡️ 2D DP ➡️ Heap ➡️ Graph ➡️ Greedy ➡️ Advanced DP ➡️ Maths
